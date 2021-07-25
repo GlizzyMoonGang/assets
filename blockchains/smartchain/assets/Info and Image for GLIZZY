@@ -1,0 +1,11 @@
+{
+    "name": "GlizzyCoin",
+    "type": "BEP20",
+    "symbol": "GLIZZY",
+    "decimals": 18,
+    "website": "https://www.glizzy.tech",
+    "description": "GlizzyCoin is the governance token of GLIZZY, the DAPP superior to Zillow, providing the bridge between real estate and blockchain through the BEP721 Token Standard. ",
+    "explorer": "https://bscscan.com/token/0xb42acc38c82edc400487e598a9e189c738a24b71",
+    "status": "active",
+    "id": "0xb42acc38c82edc400487e598a9e189c738a24b71"
+} 
